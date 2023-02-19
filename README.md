@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 1. 👋 Hi, I’m Brian Koech.
 
 2. 👀 My interests are: 
-    * Software Engineering [Python - Django, DjangoRest, FastAPI, Flask.
+    * Software Engineering [Python - Django, DjangoRest, FastAPI, Flask].
     * Data Science & Analytics.
     * Machine Learning, Artificial Intelligence, Natural Language Processing.
   
