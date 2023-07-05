@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 
 9. 📫 How to reach me: brightkoech@libranconsult.com
 10. 🌱 I am on Twitter [@LibranTechie](https://twitter.com/LibranTechie)
+11. ⚡Read my blog [librantechie.tech](https://librantechie.tech)
