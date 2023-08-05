@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   
 4. 🌱 I’m working on all the above and learning more technologies.
 
-5. 🌱 Experienced in DevOps and ICT Project Management.
+5. 🌱 I am experienced in DevOps and ICT Project Management.
 
-6. 🌱 I love Technical writing and sharing my passion for ICT. 
+6. 🌱 I enjoy technical writing and sharing my passion for ICT. 
 
 7. 💞️ I’m looking to collaborate on Software Engineering and Data Science / ML / AI Projects - Applications in Open Data, Education, Agriculture, Water, Climate Change & other Humanitarian centred fields.
 
