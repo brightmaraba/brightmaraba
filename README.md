@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 2. 👀 My interests are: 
     * Software Engineering [Python - Django, DjangoRest, FastAPI, Flask].
     * Data Science & Analytics.
-    * Machine Learning, Artificial Intelligence, Natural Language Processing.
+    * Machine Learning, Artificial Intelligence, Natural Language Processing and Large Language Models.
   
 4. 🌱 I’m working on all the above and learning more technologies.
 
