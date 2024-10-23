@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 6. 🌱 I enjoy technical writing and sharing my passion for ICT. 
 
-7. 💞️ I’m looking to collaborate on Software Engineering and Data Science / ML / AI Projects - Applications in Open Data, Education, Agriculture, Water, Climate Change & other Humanitarian centred fields.
+7. 💞️ I want to collaborate on Software Engineering and Data Science / ML / AI Projects - Applications in Open Data, Education, Agriculture, Water, Climate Change & other Humanitarian-centred fields.
 
-9. 📫 How to reach me: brightkoech@libranconsult.com
+9. 📫 How to reach me: brightkoech@gmail.com
 10. 🌱 I am on Twitter [@LibranTechie](https://twitter.com/LibranTechie)
-11. ⚡Read my blog [librantechie.tech](https://librantechie.tech)
